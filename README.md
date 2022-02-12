@@ -1,6 +1,6 @@
 
 
-<img src="https://i.makeagif.com/media/2-27-2015/jv6xB8.gif" width="500" height="250" />
+<img src="https://i.makeagif.com/media/2-27-2015/jv6xB8.gif" width="900" height="250" />
 passionate game developer
 
 Skills: Unity 3D, c++, c#
