@@ -16,11 +16,11 @@
 
 
 <p align="center"><img src="https://github.com/aryann010/aryann010/blob/main/Stats-2-12-2022.gif?raw=true" width="150" height="45" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryann010&show_icons=true&locale=en&layout=compact" alt="aryann010" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=aryann010&show_icons=true&locale=en" alt="aryann010" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aryann010&show_icons=true&locale=en" alt="aryann010" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryann010&show_icons=true&locale=en&layout=compact" alt="aryann010" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aryann010&" alt="aryann010" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryann010&" alt="aryann010" /></p>
 
 
 
